@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\W1_Server2\bin\Debug\W1_Server2.exe.config
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\W1_Server2\bin\Debug\W1_Server2.exe
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\W1_Server2\bin\Debug\W1_Server2.pdb
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\W1_Server2\obj\Debug\W1_Server2.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\W1_Server2\obj\Debug\W1_Server2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\W1_Server2\obj\Debug\W1_Server2.exe
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\W1_Server2\obj\Debug\W1_Server2.pdb

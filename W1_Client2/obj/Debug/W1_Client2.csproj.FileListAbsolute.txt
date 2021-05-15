@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\W1_Client2\bin\Debug\W1_Client2.exe.config
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\W1_Client2\bin\Debug\W1_Client2.exe
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\W1_Client2\bin\Debug\W1_Client2.pdb
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\W1_Client2\obj\Debug\W1_Client2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\W1_Client2\obj\Debug\W1_Client2.exe
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\W1_Client2\obj\Debug\W1_Client2.pdb

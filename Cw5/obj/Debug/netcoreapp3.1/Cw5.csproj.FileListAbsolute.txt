@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw5\obj\Debug\netcoreapp3.1\Cw5.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw5\obj\Debug\netcoreapp3.1\Cw5.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw5\obj\Debug\netcoreapp3.1\Cw5.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw5\bin\Debug\netcoreapp3.1\Cw5.exe
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw5\bin\Debug\netcoreapp3.1\Cw5.deps.json
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw5\bin\Debug\netcoreapp3.1\Cw5.runtimeconfig.json
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw5\bin\Debug\netcoreapp3.1\Cw5.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw5\bin\Debug\netcoreapp3.1\Cw5.dll
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw5\bin\Debug\netcoreapp3.1\Cw5.pdb
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw5\obj\Debug\netcoreapp3.1\Cw5.dll
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw5\obj\Debug\netcoreapp3.1\Cw5.pdb
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw5\obj\Debug\netcoreapp3.1\Cw5.genruntimeconfig.cache

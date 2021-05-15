@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw8_3\bin\Debug\netcoreapp3.1\Cw8_3.exe
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw8_3\bin\Debug\netcoreapp3.1\Cw8_3.deps.json
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw8_3\bin\Debug\netcoreapp3.1\Cw8_3.runtimeconfig.json
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw8_3\bin\Debug\netcoreapp3.1\Cw8_3.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw8_3\bin\Debug\netcoreapp3.1\Cw8_3.dll
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw8_3\bin\Debug\netcoreapp3.1\Cw8_3.pdb
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw8_3\obj\Debug\netcoreapp3.1\Cw8_3.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw8_3\obj\Debug\netcoreapp3.1\Cw8_3.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw8_3\obj\Debug\netcoreapp3.1\Cw8_3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw8_3\obj\Debug\netcoreapp3.1\Cw8_3.dll
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw8_3\obj\Debug\netcoreapp3.1\Cw8_3.pdb
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw8_3\obj\Debug\netcoreapp3.1\Cw8_3.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ProgWspRozp\ProgWspRozCw\Cw8_3\obj\Debug\netcoreapp3.1\Cw8_3.csprojAssemblyReference.cache
